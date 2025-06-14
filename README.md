@@ -1,6 +1,6 @@
 # Data Science Internship Task 2
 <br>
-<img src="https://github.com/kindo-tk/PRODIGY_DS_02/blob/main/ds2.png"   >
+<img src="https://github.com/THERITESHJADHAV/PRODIGY_DS_02/blob/main/ds2.png"   >
 
 ## Introduction
 This repository contains the code and analysis for Task 2 of my Data Science internship at Prodigy Info Tech. For this task, I performed data cleaning and exploratory data analysis (EDA) on a dataset of my choice. I chose the Titanic dataset from Kaggle for this analysis.
@@ -20,8 +20,3 @@ The main objective of this task was to perform data cleaning and exploratory dat
 ## Conclusion
 The data cleaning and exploratory data analysis performed on the Titanic dataset provided valuable insights into the factors influencing survival rates during the Titanic disaster. This analysis contributes to a better understanding of historical events and showcases the application of data science techniques in deriving meaningful insights from data.
 
-## Contact Information
-For any inquiries or feedback regarding this project, please contact:
-
-- <a href="https://www.linkedin.com/in/tufan-kundu-577945221/">Tufan Kundu (LinkedIn)</a>
-- Email: tufan.kundu11@gmail.com
